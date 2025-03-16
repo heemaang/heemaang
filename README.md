@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Heemaang Saxena</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7AB0A&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hi%2C+I'm+Heemaang+Saxena+👋;" alt="Typing Animation">
+</h1>
+<h3 align="center">A Passionate Full-Stack Developer & Freelancer</h3>
 
 <img align = "right" alt="coding" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95297e32a34fb5769a9261e96b16f2ad801466c7923&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
@@ -8,8 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning ** C++ ,DSA**
 
+- 💻 I’m a **Full-Stack Developer**, working on **MERN, Next.js, AI, and E-commerce projects**
+-  💼 **Freelancer & Open Source Contributor**  
+- 🌱 Currently improving my **DSA & System Design** skills
+- 🚀 **Check out my portfolio:**
+- 👉 **[heemaang.vercel.app](https://heemaang.vercel.app/)**  
 - 📫 How to reach me **heemaang.saxena18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
