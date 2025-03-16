@@ -15,7 +15,7 @@
 -  💼 **Freelancer & Open Source Contributor**  
 - 🌱 Currently improving my **DSA & System Design** skills
 - 🚀 **Check out my portfolio:**
-- 👉 **[heemaang.vercel.app](https://heemaang.vercel.app/)**  
+- 👉 **[heemaang.vercel.app](https://protfolio-heemaang.vercel.app/)**  
 - 📫 How to reach me **heemaang.saxena18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
