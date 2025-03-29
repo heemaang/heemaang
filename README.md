@@ -51,13 +51,3 @@
   </a>
 </p>
 
-### 🏆 Achievements & Hackathons
-- 🏅 1st Runner-up - Rajasthan Police Cyber Hackathon 2023  
-- 🏆 Top 5 - University of Roorkee Hackathon  
-- 🚀 SDE Intern at Next Big Thing.
-- 🌟 Developed Annoyance Detection System for 1930 Cyber HelpLine
-
-### 🔥 Fun Fact
-💡 "I turn ☕ into 💻 code!"  
-🚀 Always learning & exploring new technologies!  
-📜 Love Open Source & FreeLance
