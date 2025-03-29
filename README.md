@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/heemaang-saxena/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-<a href="https://instagram.com/https://instagram.com/heemaang_saxena?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/heemaang_saxena?igshid=zddkntzintm=" height="30" width="40" /></a>
+<a href="https://instagram.com/heemaang_saxena?igshid=zddkntzintm=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/heemaang" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
@@ -49,5 +49,39 @@
     <img src="https://github-readme-stats.vercel.app/api?username=heemaang&show_icons=true&theme=react&border_color=7F3FBF" alt="GitHub Stats" width="32%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heemaang&layout=compact&theme=react&border_color=7F3FBF" alt="Most Used Languages" width="32%" />
   </a>
+</p>
+
+### 📌 Pinned Repositories
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>Employe Time Tracking Syste</h4>
+        <a href="https://github.com/heemaang">
+<!--           <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_1&theme=react" alt="Pinned Repo 1" width="100%" /> -->
+        </a>
+      </td>
+      <td align="center">
+        <h4>1930 Cyber Helpline</h4>
+        <a href="https://github.com/heemaang">
+<!--           <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_2&theme=react" alt="Pinned Repo 2" width="100%" /> -->
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>Vidya Vani - AI Education Assistant</h4>
+        <a href="https://github.com/heemaang">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_3&theme=react" alt="Pinned Repo 3" width="100%" />
+        </a>
+      </td>
+      <td align="center">
+        <h4>I-Galaxy E-Commerce</h4>
+        <a href="https://github.com/heemaang">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_4&theme=react" alt="Pinned Repo 4" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
