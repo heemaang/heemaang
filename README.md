@@ -51,37 +51,4 @@
   </a>
 </p>
 
-### 📌 Pinned Repositories
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>Employe Time Tracking Syste</h4>
-        <a href="https://github.com/heemaang">
-<!--           <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_1&theme=react" alt="Pinned Repo 1" width="100%" /> -->
-        </a>
-      </td>
-      <td align="center">
-        <h4>1930 Cyber Helpline</h4>
-        <a href="https://github.com/heemaang">
-<!--           <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_2&theme=react" alt="Pinned Repo 2" width="100%" /> -->
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>Vidya Vani - AI Education Assistant</h4>
-        <a href="https://github.com/heemaang">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_3&theme=react" alt="Pinned Repo 3" width="100%" />
-        </a>
-      </td>
-      <td align="center">
-        <h4>I-Galaxy E-Commerce</h4>
-        <a href="https://github.com/heemaang">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=heemaang&repo=REPO_NAME_4&theme=react" alt="Pinned Repo 4" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
 
